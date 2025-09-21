@@ -1605,8 +1605,8 @@ body {
   bottom: 20px;
   z-index: 99999;
   display: block;
-  width: 84px;
-  height: 84px;
+  width: 94px;
+  height: 94px;
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
